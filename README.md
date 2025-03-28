@@ -20,3 +20,8 @@ BookHub Basic Android App Based on the concept of Fragment, Navigation Drawer, D
 <img  height='400' src="https://github.com/arwazkhan189/BookHub/blob/master/Screenshots/FavouritesBook.jpg">
 
 </p>
+
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
